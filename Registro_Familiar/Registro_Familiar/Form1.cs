@@ -16,5 +16,10 @@ namespace Registro_Familiar
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

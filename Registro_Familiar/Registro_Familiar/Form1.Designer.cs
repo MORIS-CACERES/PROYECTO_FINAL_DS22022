@@ -33,11 +33,12 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(375, 107);
+            this.textBox1.Location = new System.Drawing.Point(209, 142);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = "HOLA QUETAL";
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // Form1
             // 
