@@ -12,36 +12,9 @@ namespace Registro_Familiar.GUI
 {
     public partial class Login : Form
     {
-
-        //Boolean _Autorizado = false;
-       // SessionManager.Sesion oSesion = SessionManager.Sesion.Instance;
-
-            
-
-
-
-
-
         public Login()
         {
             InitializeComponent();
         }
-
-
-        private void btnCancelar_Click(object sender, EventArgs e)
-        {
-            Close(); //El Programa se cierra al precionar el Boton
-        }
-
-        private void btnEntrar_Click(object sender, EventArgs e)
-        {
-            //Validar(); //Valida el Usuario y contraseña para entrar menu
-        }
-
-        private void S(object sender, EventArgs e)
-        {
-
-        }
-
     }
 }
