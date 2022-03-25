@@ -16,8 +16,12 @@ namespace Registro_Familiar.GUI
         {
             InitializeComponent();
             Tiempo.Enabled = true;
+<<<<<<< Updated upstream
             Tiempo.Interval = 3000; //Duración Milisegundos
       
+=======
+            Tiempo.Interval = 3000; // duración de Splashscreen en milisegundos
+>>>>>>> Stashed changes
         }
 
         private void Tiempo_Tick(object sender, EventArgs e)
