@@ -16,7 +16,13 @@ namespace Registro_Familiar
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            GUI.Splash sp = new GUI.Splash();
+            if (sp.ShowDialog()== DialogResult.OK)
+            {
+                Application.Run(new GUI.Login());
+            }
+     
         }
     }
 }

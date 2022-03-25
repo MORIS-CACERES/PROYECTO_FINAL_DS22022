@@ -15,6 +15,15 @@ namespace Registro_Familiar.GUI
         public Splash()
         {
             InitializeComponent();
+            Tiempo.Enabled = true;
+            Tiempo.Interval = 3000; // duración de Splashscreen en milisegundos
+        }
+
+        private void Tiempo_Tick(object sender, EventArgs e)
+        {
+            Tiempo.Stop();
+            this.DialogResult = DialogResult.OK;
+            this.Close();
         }
     }
 }
