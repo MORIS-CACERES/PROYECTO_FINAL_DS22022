@@ -28,9 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Splash
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(781, 438);
+            this.Name = "Splash";
             this.Text = "Splash";
+            this.Load += new System.EventHandler(this.Splash_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion

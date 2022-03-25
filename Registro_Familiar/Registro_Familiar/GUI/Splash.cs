@@ -16,5 +16,10 @@ namespace Registro_Familiar.GUI
         {
             InitializeComponent();
         }
+
+        private void Splash_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
