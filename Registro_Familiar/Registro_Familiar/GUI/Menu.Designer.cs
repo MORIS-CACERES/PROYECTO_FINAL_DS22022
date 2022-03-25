@@ -3,14 +3,34 @@
     partial class Menu
     {
         /// <summary>
+<<<<<<< HEAD
         /// Variable del diseñador necesaria.
+=======
+<<<<<<< Updated upstream
+        /// Required designer variable.
+=======
+        /// Variable del diseñador necesaria.
+>>>>>>> Stashed changes
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
+<<<<<<< HEAD
         /// Limpiar los recursos que se estén usando.
         /// </summary>
         /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+=======
+<<<<<<< Updated upstream
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+=======
+        /// Limpiar los recursos que se estén usando.
+        /// </summary>
+        /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+>>>>>>> Stashed changes
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,15 +40,41 @@
             base.Dispose(disposing);
         }
 
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+=======
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
         #region Código generado por el Diseñador de Windows Forms
 
         /// <summary>
         /// Método necesario para admitir el Diseñador. No se puede modificar
         /// el contenido de este método con el editor de código.
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
         /// </summary>
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Text = "Menu";
+        }
+
+        #endregion
+    }
+}
+=======
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu));
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
@@ -260,3 +306,7 @@
 
 
 
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800

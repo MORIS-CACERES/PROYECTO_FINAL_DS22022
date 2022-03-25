@@ -12,6 +12,10 @@ namespace Registro_Familiar.GUI
 {
     public partial class Login : Form
     {
+<<<<<<< HEAD
+=======
+
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
         //Boolean _Autorizado = false;
        // SessionManager.Sesion oSesion = SessionManager.Sesion.Instance;
 
@@ -20,11 +24,19 @@ namespace Registro_Familiar.GUI
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
         public Login()
         {
             InitializeComponent();
         }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             Close(); //El Programa se cierra al precionar el Boton
@@ -39,5 +51,9 @@ namespace Registro_Familiar.GUI
         {
 
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
     }
 }

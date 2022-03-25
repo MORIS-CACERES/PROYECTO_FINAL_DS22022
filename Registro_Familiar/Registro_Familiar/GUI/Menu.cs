@@ -12,12 +12,25 @@ namespace Registro_Familiar.GUI
 {
     public partial class Menu : Form
     {
+<<<<<<< HEAD
         private int childFormNumber = 0;
 
+=======
+<<<<<<< Updated upstream
+=======
+        private int childFormNumber = 0;
+
+>>>>>>> Stashed changes
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
         public Menu()
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
 
         
         
@@ -103,5 +116,9 @@ namespace Registro_Familiar.GUI
         {
 
         }
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> dbfdcba5c383dbc31a8386a3632886863aeb6800
     }
 }
