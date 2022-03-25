@@ -28,10 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnCancelar = new System.Windows.Forms.Button();
-<<<<<<< Updated upstream
             this.txbClave = new System.Windows.Forms.TextBox();
             this.btnEntrar = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
@@ -39,7 +39,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-=======
             this.btnEntrar = new System.Windows.Forms.Button();
             this.lblMensaje = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -47,13 +46,12 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txbUsuario = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
->>>>>>> Stashed changes
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
-<<<<<<< Updated upstream
+
             this.panel1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.panel1.BackColor = System.Drawing.Color.White;
             this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
@@ -70,7 +68,6 @@
             this.panel1.Location = new System.Drawing.Point(445, 50);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(439, 524);
-=======
             this.panel1.AllowDrop = true;
             this.panel1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
@@ -86,12 +83,12 @@
             this.panel1.Location = new System.Drawing.Point(323, 40);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(368, 453);
->>>>>>> Stashed changes
+
             this.panel1.TabIndex = 0;
             // 
             // btnCancelar
             // 
-<<<<<<< Updated upstream
+
             this.btnCancelar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancelar.Location = new System.Drawing.Point(256, 385);
             this.btnCancelar.Name = "btnCancelar";
@@ -150,7 +147,7 @@
             this.label3.Size = new System.Drawing.Size(57, 24);
             this.label3.TabIndex = 2;
             this.label3.Text = "Clave";
-=======
+
             this.btnCancelar.Location = new System.Drawing.Point(69, 351);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(80, 32);
@@ -180,19 +177,19 @@
             this.lblMensaje.TabIndex = 11;
             this.lblMensaje.Text = "Escriba sus credenciales en el espacio designado";
             this.lblMensaje.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
->>>>>>> Stashed changes
+
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-<<<<<<< Updated upstream
+
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(89, 125);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(74, 24);
             this.label2.TabIndex = 1;
             this.label2.Text = "Usuario";
-=======
+
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(71, 197);
@@ -211,19 +208,19 @@
             this.txbClave.Size = new System.Drawing.Size(230, 31);
             this.txbClave.TabIndex = 9;
             this.txbClave.Click += new System.EventHandler(this.S);
->>>>>>> Stashed changes
+
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-<<<<<<< Updated upstream
+
             this.label1.Font = new System.Drawing.Font("Engravers MT", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(83, 53);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(273, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "INICIO DE SESIÓN";
-=======
+
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
@@ -251,39 +248,50 @@
             this.label3.Size = new System.Drawing.Size(291, 32);
             this.label3.TabIndex = 14;
             this.label3.Text = "INICIO DE SESIÓN";
->>>>>>> Stashed changes
+
             // 
+
+            this.SuspendLayout();
+            // 
+
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-<<<<<<< Updated upstream
+
             this.ClientSize = new System.Drawing.Size(1270, 629);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Login";
-=======
+
             this.ClientSize = new System.Drawing.Size(984, 531);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Login";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
->>>>>>> Stashed changes
+
             this.Text = "Login";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+
+            this.ClientSize = new System.Drawing.Size(688, 399);
+            this.Name = "Login";
+            this.Text = "Login";
+
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
+
         private System.Windows.Forms.Panel panel1;
-<<<<<<< Updated upstream
+
         private System.Windows.Forms.TextBox txbClave;
         private System.Windows.Forms.Button btnEntrar;
         private System.Windows.Forms.Label label4;
@@ -292,7 +300,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnCancelar;
-=======
+
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnCancelar;
         private System.Windows.Forms.Button btnEntrar;
@@ -301,6 +309,6 @@
         private System.Windows.Forms.TextBox txbClave;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txbUsuario;
->>>>>>> Stashed changes
+
     }
 }

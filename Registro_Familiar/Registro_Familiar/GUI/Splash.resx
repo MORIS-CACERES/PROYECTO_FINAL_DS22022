@@ -117,10 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-<<<<<<< Updated upstream
+
         iVBORw0KGgoAAAANSUhEUgAAAyMAAAGpCAYAAACeZ+lSAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
         wwAADsMBx2+oZAAA/7JJREFUeF7s/Ye7NEW1/o3zR/yu9/19w4nmgAEQE4oBAyJGggkDPuacFVBRJEsO
         EgVBgqKiIuYcMSeMREVRMStiOuf0W5/qvqdXr1kdZqZnP3tvZq7rvqp61apcPbPuXlU927ziDW8owCur
@@ -7472,10 +7473,11 @@
         EY5NFFeVV+JeppPY4O3vrlrx83Ep+Y9XPrVy3uJW1AAyuRg9WNFFe1E5HuZd3cS7QfNfr/ePrUq31yet
         xL0/vmiituhDI7i4laMkyOSVwfmNboRU0dNqhc22Tge7UUV1R+BHLW+FepoeC2b7Zerk7diHGeM7RXsX
         h21gudFtmmhjlYbgGdQTjceOaKK8Wt/HPYp/Aj//2Q==
->>>>>>> Stashed changes
+
 </value>
   </data>
   <metadata name="Tiempo.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+
 </root>

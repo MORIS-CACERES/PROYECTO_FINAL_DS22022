@@ -117,6 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="panel1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -580,7 +581,7 @@
   </data>
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-<<<<<<< Updated upstream
+
         /9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERET
         FhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4e
         Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAIaA70DASIAAhEBAxEB/8QA
@@ -5758,7 +5759,8 @@
         8loYZrzT6Rsg+qVUnpWpGNYtJYx8OuRckPQfzXgpeiondJfwPUbNlz7DNhFqPPVv9NY/yXtyikl9bQqv
         NFO/gg23ph7aj8SN0K6YqF6clVi780+SKFqq5af5eSX6XdM31QsmxHZ6MvW8CG1V1nvyyuS3+B4HfJUx
         5xTKEjQZ3G3kaP/Z
->>>>>>> Stashed changes
+
 </value>
   </data>
+
 </root>

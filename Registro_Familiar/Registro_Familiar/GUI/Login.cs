@@ -12,6 +12,7 @@ namespace Registro_Familiar.GUI
 {
     public partial class Login : Form
     {
+
         //Boolean _Autorizado = false;
        // SessionManager.Sesion oSesion = SessionManager.Sesion.Instance;
 
@@ -20,10 +21,12 @@ namespace Registro_Familiar.GUI
 
 
 
+
         public Login()
         {
             InitializeComponent();
         }
+
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
@@ -39,5 +42,6 @@ namespace Registro_Familiar.GUI
         {
 
         }
+
     }
 }
